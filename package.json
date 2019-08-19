@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-tailwind",
+  "version": "1.0.0",
+  "description": "My luminous Nuxt.js project",
+  "author": "Cristian",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "tailwindcss": "^1.1.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.2.0"
+  }
+}
